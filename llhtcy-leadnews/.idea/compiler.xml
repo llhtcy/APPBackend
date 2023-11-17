@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="minio-demo" />
+        <module name="llhtcy-leadnews-app-gateway" />
+        <module name="llhtcy-leadnews-article" />
+        <module name="llhtcy-leadnews-model" />
+        <module name="llhtcy-file-starter" />
+        <module name="llhtcy-leadnews-common" />
+        <module name="llhtcy-leadnews-feign-api" />
+        <module name="llhtcy-leadnews-utils" />
+        <module name="llhtcy-leadnews-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="llhtcy-file-starter" target="1.8" />
+      <module name="llhtcy-leadnews" target="1.8" />
+      <module name="llhtcy-leadnews-apis" target="1.8" />
+      <module name="llhtcy-leadnews-app-gateway" target="1.8" />
+      <module name="llhtcy-leadnews-article" target="1.8" />
+      <module name="llhtcy-leadnews-basic" target="1.8" />
+      <module name="llhtcy-leadnews-common" target="1.8" />
+      <module name="llhtcy-leadnews-feign-api" target="1.8" />
+      <module name="llhtcy-leadnews-gateway" target="1.8" />
+      <module name="llhtcy-leadnews-model" target="1.8" />
+      <module name="llhtcy-leadnews-service" target="1.8" />
+      <module name="llhtcy-leadnews-test" target="1.8" />
+      <module name="llhtcy-leadnews-user" target="1.8" />
+      <module name="llhtcy-leadnews-utils" target="1.8" />
+      <module name="minio-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="llhtcy-file-starter" options="-parameters" />
+      <module name="llhtcy-leadnews" options="-parameters" />
+      <module name="llhtcy-leadnews-apis" options="-parameters" />
+      <module name="llhtcy-leadnews-app-gateway" options="-parameters" />
+      <module name="llhtcy-leadnews-article" options="-parameters" />
+      <module name="llhtcy-leadnews-basic" options="-parameters" />
+      <module name="llhtcy-leadnews-common" options="-parameters" />
+      <module name="llhtcy-leadnews-feign-api" options="-parameters" />
+      <module name="llhtcy-leadnews-gateway" options="-parameters" />
+      <module name="llhtcy-leadnews-model" options="-parameters" />
+      <module name="llhtcy-leadnews-service" options="-parameters" />
+      <module name="llhtcy-leadnews-test" options="-parameters" />
+      <module name="llhtcy-leadnews-user" options="-parameters" />
+      <module name="llhtcy-leadnews-utils" options="-parameters" />
+      <module name="minio-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

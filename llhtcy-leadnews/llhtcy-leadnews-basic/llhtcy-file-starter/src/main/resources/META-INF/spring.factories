@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.llhtcy.file.service.impl.MinIOFileStorageService

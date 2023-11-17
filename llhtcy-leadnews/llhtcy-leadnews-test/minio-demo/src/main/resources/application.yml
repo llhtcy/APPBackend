@@ -1,0 +1,6 @@
+minio:
+  accessKey: minioadmin
+  secretKey: minioadmin
+  bucket: music
+  endpoint: http://8.134.196.35:9000
+  readPath: http://8.134.196.35:9000
