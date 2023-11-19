@@ -1,0 +1,5 @@
+com\llhtcy\user\mapper\ApUserMapper.class
+com\llhtcy\user\controller\v1\ApUserLoginController.class
+com\llhtcy\user\service\impl\ApUserServiceImpl.class
+com\llhtcy\user\service\ApUserService.class
+com\llhtcy\user\UserApplication.class

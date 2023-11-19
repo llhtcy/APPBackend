@@ -1,0 +1,3 @@
+com\llhtcy\app\gateway\AppGatewayApplication.class
+com\llhtcy\app\gateway\util\AppJwtUtil.class
+com\llhtcy\app\gateway\filter\AuthorizeFilter.class

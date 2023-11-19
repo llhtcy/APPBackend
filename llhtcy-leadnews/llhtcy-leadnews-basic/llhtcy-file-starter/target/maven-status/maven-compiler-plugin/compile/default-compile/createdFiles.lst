@@ -1,0 +1,5 @@
+com\llhtcy\file\config\MinIOConfig.class
+com\llhtcy\file\config\MinIOConfigProperties.class
+com\llhtcy\file\service\impl\MinIOFileStorageService.class
+com\llhtcy\file\service\FileStorageService.class
+META-INF\spring-configuration-metadata.json
